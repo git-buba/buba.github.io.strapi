@@ -40,5 +40,10 @@
   "strapi": {
     "uuid": "2e1c0759-12bd-4b4a-a710-f66784d35ce5",
     "installId": "a62fcfab4a1b42f41f8fa5b087409184bd024f2b768fa74f07111b9889313fff"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "better-sqlite3"
+    ]
   }
 }
